@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">French</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">French</string>
+    <string name="title_activity_add">French</string>
+    <string name="add_word">Add Word</string>
+    <string name="frenchWord">French Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="add"><b>Add</b></string>
+    <string name="word_details">Word Details</string>
+    <string name="all_words">All Words</string>
+    <string name="amrit_bhattacharjee">Amrit Bhattacharjee</string>
+    <string name="dept_of_cse">Dept. of CSE</string>
+    <string name="university_of_chittagong">University of Chittagong</string>
+    <string name="about">About</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
